@@ -1,0 +1,33 @@
+
+/* 
+seletor {
+    propriedade: valor;
+}
+
+Tipos de Propriedades
+*/
+
+/* Seletor de Tag */
+body {
+    background-color: #FAFAFA;
+}
+
+/* Seletor de Classe */
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+/* Seletor de ID */
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
